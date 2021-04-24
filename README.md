@@ -1,6 +1,5 @@
 # DETEKTOR
 
-[Link](https://www.thedetektor.com/) to the project website.
 
 [Link](data/traffic_sign_interiit/README.md) to README of DL code.
 
